@@ -1,0 +1,17 @@
+﻿{
+  "nomeTitular": ".mx-name-inpt_dados_cadastrais_nome input",
+  "data": ".mx-name-dtpk_dados_cadastrais_data_nasc input",
+  "dataEmancipacao": ".mx-name-dtpk_dados_cadastrais_data_emancipacao input",
+  "capacidadeCivil": ".mx-name-dpdw_dados_cadastrais_capacidade_civil select",
+  "estadoCivil": ".mx-name-dpdw_dados_cadastrais_estado_civil select",
+  "pessoaComDeficiencia": ".mx-name-dpdw_dados_cadastrais_pessoa_com_deficiencia select",
+  "nacionalidade": ".mx-name-dpdw_dados_cadastrais_tipo_nacionalidade select",
+  "naturalidade": ".mx-name-inpt_dados_cadastrais_naturalidade input",
+  "genero": ".mx-name-rdb_dados_cadastrais_genero label",
+  "dataConsultaCpf": ".mx-name-dtpk_dados_cadastrais_data_consulta_cpf input",
+  "situacaoDeCpf": ".mx-name-dpdw_dados_cadastrais_situacao_cpf select",
+  "orgaoEmissor": ".mx-name-dpdw_dados_cadastrais_orgao_emissor input",
+  "estado": ".mx-name-dpdw_dados_cadastrais_UF select",
+  "dataEmissaoRg": ".mx-name-dtpk_dados_cadastrais_data_emissao input",
+  "proximo": ".mx-name-btn_dados_cadastrais_proximo"
+}

@@ -1,0 +1,8 @@
+﻿{
+  "campoSenha": ".mx-name-textBox10 input",
+  "campoRepetirSenha": ".mx-name-textBox12 input",
+  "campoLetra": ".tbLetrasRequestFocus input",
+  "campoRepetirLetra": ".tbLetrasRepeticaoRequestFocus input",
+  "btnProximo": ".mx-name-btn_senhaslimites_proximo",
+  "esperaProximaTela": ".mx-progress.mx-progress-hidden"
+}

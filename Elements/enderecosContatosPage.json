@@ -1,0 +1,13 @@
+﻿{
+  "cep": ".mx-name-inpt_dados_cadastrais_cep input",
+  "radioButtonTipoResidencia": ".mx-name-dpdw_dados_cadastrais_tipo_residencia select",
+  "numeroResidencia": ".mx-name-inpt_dados_cadastrais_numero input",
+  "telefonePrincipal": ".mx-name-inpt_dados_cadastrais_telefone_principal input",
+  "tipoContato": ".mx-name-dpdw_dados_cadastrais_tipo_telefone_principal select",
+  "radioButtonWhatsapp": ".mx-name-rdb_dados_cadastrais_num_whattsapp_principal label",
+  "preferenciaContato": ".mx-name-dpdw_dados_cadastrais_preferencia_contato select",
+  "email": ".mx-name-inpt_dados_cadastrais_email input",
+  "radioButtonAceiteContato": ".mx-name-rdb_dados_cadastrais_contato_promocional label",
+  "botaoProximo": ".mx-name-btn_proximo",
+  "esperaCep": ".mx-progress.mx-progress-hidden"
+}

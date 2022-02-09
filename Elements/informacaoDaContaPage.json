@@ -1,0 +1,8 @@
+﻿{
+  "situacaoDeConta": ".mx-name-dpdw_sitacao_conta select",
+  "radioButtonTipoDeConta": ".mx-name-lv_tipo_conta label",
+  "abrirConta": ".mx-name-btn_abrir_conta",
+  "gerarConta": ".mx-name-actionButton1",
+  "esperaAbrirConta": ".mx-progress.mx-progress-hidden",
+  "postoDeAtendimento": ".mx-name-dpdw_posto_atendimento input"
+}

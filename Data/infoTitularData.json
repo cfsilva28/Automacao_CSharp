@@ -1,0 +1,17 @@
+﻿{
+  "value": "value",
+  "data": "15/12/1990",
+  "dataEmancipacao": "01012021",
+  "capacidadeCivil": "MENOR CAPAZ",
+  "estadoCivil": "SOLTEIRO(A)",
+  "tipoDeficiencia": "NENHUMA",
+  "nacionalidade": "BRASILEIRO(A)",
+  "naturalidade": "SAO PAULO - SP",
+  "genero": "Masculino",
+  "situacaoDeCpf": "REGULAR",
+  "textoSituacaoCpf": "Selecione\r\nCANCELADA\r\nNULA\r\nPENDENTE DE REGULARIZACAO\r\nREGULAR\r\nSUSPENSA\r\nTITULAR FALECIDO",
+  "orgaoEmissor": "SECRETARIA DE SEGURANÇA PÚBLICA",
+  "estado": "SP",
+  "dataEmissaoRg": "21/12/2012",
+  "nomeCooperado": "DANIEL COELHO DA COSTA"
+}

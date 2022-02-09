@@ -1,0 +1,9 @@
+﻿{
+  "nomeCard": ".mx-name-container3 .mx-name-text24",
+  "numContaCard": ".mx-name-text25",
+  "textAberturaDeContaModal": ".mx-name-dataView6 .titulo-pagina",
+  "nomeModal": ".mx-name-text22",
+  "numContaModal": ".mx-name-container2 .mx-name-text24",
+  "dataContaModal": ".mx-name-container22 span",
+  "btnConcluir": ".mx-name-container45 .mx-name-btn_documentos_proximo"
+}

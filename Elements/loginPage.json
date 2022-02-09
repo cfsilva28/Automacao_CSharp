@@ -1,0 +1,7 @@
+{
+  "signInButton": "//span[@id='submitButton']",
+  "password": "//input[@id='passwordInput']",
+  "username": "//input[@class='form-control ltr_override input ext-input text-box ext-text-box']",
+  "avancar": "//input[@id='idSIButton9']",
+  "continuarConectado": "//input[@id='idBtn_Back']"
+}

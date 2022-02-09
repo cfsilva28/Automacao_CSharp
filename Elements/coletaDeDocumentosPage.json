@@ -1,0 +1,9 @@
+﻿{
+  "identificacao": ".mx-name-container67 input",
+  "proximo": ".mx-name-container1 .mx-name-btn_documentos_proximo",
+  "identificacaoVerso": ".mx-name-container65 input",
+  "comprovanteResidencia": ".mx-name-container24 input",
+  "carteiraIdentidade": ".mx-name-checkBox1",
+  "documentoEmancipacao": ".mx-name-container91 input",
+  "progress": "//div[@class='progress']"
+}

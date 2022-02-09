@@ -1,0 +1,8 @@
+﻿{
+  "naturezaOcupacao": ".mx-name-btn_dados_cadastrais_natureza_ocupacao input",
+  "comprovacaoRenda": ".mx-name-dpdw_dados_cadastrais_tipo_renda select",
+  "rendaPrincipal": ".mx-name-inpt_dados_cadastrais_renda_principal input",
+  "ocupacao": ".mx-name-inpt_dados_cadastrais_ocupacao input",
+  "cnpj": ".mx-name-inpt_dados_cadastrais_cnpj_empregador input",
+  "proximo": ".mx-name-btn_documentos_proximo"
+}

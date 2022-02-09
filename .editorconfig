@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0047: Remover os parênteses desnecessários
+dotnet_style_parentheses_in_arithmetic_binary_operators = never_if_unnecessary

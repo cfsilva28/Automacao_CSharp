@@ -1,0 +1,7 @@
+﻿{
+  "campoCpf": ".mx-name-container11 input",
+  "consultarCpf": ".mx-name-container2 button",
+  "iniciarAdmissao": ".mx-name-btn_inicio_nova_admissao_ativado",
+  "situacaoDoCpf": ".mx-name-container49 span",
+  "limparCpf": ".mx-name-inpt_inicio_cpf_vazio"
+}
